@@ -1,0 +1,4 @@
+fastmcp
+requests
+pydantic
+python-dotenv
