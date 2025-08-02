@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "note-taking-server": {
+            "command": "python3",
+            "args": [
+                "/Users/hitanshu.dhawan/Desktop/Model-Context-Protocol-Playground/note-taking/note_server.py"
+            ],
+            "env": {}
+        }
+    }
+}
