@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "smart-bulb": {
+            "command": "python3",
+            "args": [
+                "/Users/hitanshu.dhawan/Desktop/Model-Context-Protocol-Playground/smart-bulb/smart_bulb_server.py"
+            ],
+            "env": {}
+        }
+    }
+}
